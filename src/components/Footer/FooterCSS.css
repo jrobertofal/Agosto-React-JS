@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: beige;
+    margin-top: 7px;
+    border-radius: 7px;
+}

@@ -1,0 +1,11 @@
+.header__car i{
+    font-size: 37px;
+    margin-top: 20px;
+    color: orange;
+    cursor: pointer;
+    transition: all 0.4s ease;
+}
+.header__car i:hover{
+    color: rgb(255, 148, 47);
+    font-size: 40px;
+}

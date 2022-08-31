@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.greeting{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    border-radius: 7px;
+    background-color: antiquewhite;
+}
